@@ -24,6 +24,8 @@
     <body>
         <div>
             <center>
+                <h3>View the video demo in youtube <a href="https://youtu.be/o2-PCiiJzr4" target="_blank">https://youtu.be/o2-PCiiJzr4</a></h3>
+                <br>
                 <input value="+1" id="country_code" />
                 <input placeholder="phone number" id="phone_number"/>
                 <button onclick="smsLogin();">Login via SMS</button>
